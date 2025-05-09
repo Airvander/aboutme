@@ -1,4 +1,4 @@
-WHOAMI --- Jonathan Chua, INTJ, 28 Y/O 
+WHOAMI --- Jonathan Chua, INTJ, 28 Y/O, SINGAPOREAN, CHINESE.
 
 ABOUT ME
 i have interested in anything related to IT/Cybersecurity related, i don't have anything working experience in IT/Cybersecurity. on my free time i would search on materials on net or watch youtube teaches me some form of IT knowledge and tried it on my own. currently learning how linux works and linux terminal, i learnt python but still not familiar with python will work on that once i have learn enought linux online. after i would get into A+,NETWORK+,SECURITY+, ejpt, oscp and get hold of some of the certificates. im inspire to become Penaration tester/Red teaming, Ethical hacking, blue teaming, SOC. Any of this line. That's my plan for upcoming 5 years. As of now i would like to get in the field of IT and bulid up my foundaion and fundamental in IT.
