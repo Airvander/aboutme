@@ -15,7 +15,15 @@ Nitec in Mechatronics & Robotics (2 Years 2015-2017)
 --- Top in Electronics 2015
 
 technical skill
+PC buliding 
+connect computer peripherals, monitor, keyboard, mouse, webcam
+configure BIOS. like set booting drive- UEFI for flash drive/ bootdrive - Harkdisk/ Solid State Drive/ NVME SSD M.2
+Upgrading hardware components
+optimizing computer software
 setup pc,laptop, printer, router
 install firmware,driver update, download software
+turn on firewall. basic firewall configuration 
+remote assist - teamviewer/anydesk 
+basic troubleshooting  -- Power button will not start computer, An application is running slowly, The computer is frozen, mouse or keyboard has stopped working, The sound isn't working, The screen is blank, An application is running slowly
 terminal - ping, netstat,ipconfig, nslookup
 linux terminal - sudo, pwd, cd, ls, rm, reboot, shutdown
